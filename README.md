@@ -10,7 +10,7 @@ Hello, welcome to this lesson. Today I create with html, css and Svelte.js file 
 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Dictionary-App-SvelteJS.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Game-Score-SvelteJS.git` <br/>
 > **STEP-2:**  enter the `Game-Score-SvelteJS` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the files in the main folder "npm run dev" <br/>
